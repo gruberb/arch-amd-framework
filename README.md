@@ -4,11 +4,16 @@ The goal is to have a very lightweight Arch installation, with `Wayland` and `Sw
 
 ![Screenshot of the running setup with Wayland and Sway](https://github.com/gruberb/arch-amd-framework/blob/main/screen.png?raw=true)
 
+### Base setup 
+
 * Arch Linux
 * Wayland
 * Sway
 * Waybar
 * wmenu
+
+### Applications
+
 * Alacritty
 * Fish
 * Tmux
@@ -17,10 +22,16 @@ The goal is to have a very lightweight Arch installation, with `Wayland` and `Sw
 * Firefox
 * Thunderbird
 
+### System tools
+
 * NetworkManager
 * bluez
 * pipewire
 * cups
+* grim
+* slurp
+
+### Behaviour
 
 * Auto-switching to external (ultrawide, 5k) monitor with the right scaling
-
+* Keyboard keys: Volume Up/Down/Mute, Brightness control, Screenshot
