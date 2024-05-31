@@ -2,6 +2,8 @@
 
 The goal is to have a very lightweight Arch installation, with `Wayland` and `Sway`. We are going to use `waybar` as the status bar on top of the screen, and `neovim` and `helix` plus a basic `Rust` setup. We going to have Bluetooth, WiFi working, as well as Sound and some basic special keys like Volume Up/Down + Screen brightness.
 
+![Screenshot of the running setup with Wayland and Sway](https://github.com/gruberb/arch-amd-framework/blob/main/screen.png?raw=true)
+
 * Arch Linux
 * Wayland
 * Sway
