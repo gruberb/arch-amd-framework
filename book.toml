@@ -1,0 +1,6 @@
+[book]
+authors = ["Bastian Gruber"]
+language = "en"
+multilingual = false
+src = "src"
+title = "FrameworkAMD + Arch"
